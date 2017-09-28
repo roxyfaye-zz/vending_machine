@@ -1,5 +1,5 @@
-{
-  "status": "success",
+var items = {
+  
   "data": [
     {
       "id": 1,
@@ -13,7 +13,5 @@
       "cost": 35,
       "quantity": 10
     },
-    
-    // ...
   ]
 }
